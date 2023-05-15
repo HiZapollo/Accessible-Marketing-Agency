@@ -11,8 +11,10 @@ N/A
 ## Usage
 
 This project can be used to identify what certain CSS properties do, and to see them in action on a webpage, seen below.
-![alt text](assets/images/Horiseon - Google Chrome 5_15_2023 4_41_31 PM)
-[Webpage can be visited here.]()
+
+![image of webpage](Images\Horiseon - Google Chrome 5_15_2023 4_41_31 PM.png)
+
+[Webpage can be visited here.](https://hizapollo.github.io/Accessible-Marketing-Agency/Develop/)
 
 ## Credits
 
